@@ -1,0 +1,17 @@
+collapse/module.driver.comms_i2c_on_comms_i2c_bus.1358274061=false
+collapse/module.driver.comms_i2c_on_comms_i2c_bus.845597469=false
+collapse/module.driver.comms_i2c_on_comms_i2c_device.352427471=false
+collapse/module.driver.comms_i2c_on_comms_i2c_device.649204552=false
+collapse/module.driver.display_on_glcdc.1857599248=false
+collapse/module.driver.display_on_glcdc.946883580=false
+collapse/module.driver.drw.338273312=false
+collapse/module.driver.i2c_on_iic_master.1080521328=false
+collapse/module.driver.i2c_on_iic_master.1558213190=false
+collapse/module.driver.i2c_on_iic_master.2083396975=false
+collapse/module.driver.mipi_dsi.389592738=false
+collapse/module.driver.mipi_dsi.482305044=false
+collapse/module.driver.ospi_on_ospi_b.1473734443=false
+collapse/module.driver.uart_on_sci_b_uart.916652445=false
+collapse/module.lvgl.lvgl.1642925006=false
+collapse/module.middleware.rm_lvgl_port.615360259=false
+eclipse.preferences.version=1
